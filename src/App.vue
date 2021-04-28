@@ -1109,4 +1109,8 @@ body
   html
     font-size: 18px
 
+@media screen  and (min-height: 1440px)
+  html
+    font-size: 20px
+
 </style>
