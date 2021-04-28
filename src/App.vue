@@ -992,7 +992,7 @@ body
     padding: 0.313rem 0.625rem
     position: absolute
     z-index: 1
-    right: 0%
+    left: 32%
     width: 13.75rem
     box-shadow:  0.313rem 0.313rem 0.375rem #d3d3d3, -0.125rem -0.125rem 0.188rem #ffffff
     border-left: 0.063rem solid rgba(194,194,194, 0.1)
